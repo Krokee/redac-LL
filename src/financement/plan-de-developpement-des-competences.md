@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
-  order: 6
-  parent:
+  key: Plan de développement des compétences
+  order: 5
+  parent: Financement
 ---

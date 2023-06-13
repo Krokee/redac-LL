@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
-  order: 6
-  parent:
+  key: Aide individuelle à la formation
+  order: 1
+  parent: Financement
 ---

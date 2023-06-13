@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
-  order: 6
-  parent:
+  key: Contrat de sécurisation professionnelle (CSP)
+  order: 2
+  parent: Financement
 ---

@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
-  order: 6
-  parent:
+  key: Règles d'orthographe
+  order: 3
+  parent: Formation professionnelle
 ---

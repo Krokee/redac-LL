@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
+  key: Mentions légales
   order: 6
   parent:
 ---

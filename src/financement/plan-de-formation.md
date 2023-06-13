@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
+  key: Plan de formation
   order: 6
-  parent:
+  parent: Financement
 ---

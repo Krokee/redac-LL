@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
+  key: Certification Pipplet Flex
   order: 6
-  parent:
+  parent: Nos examens de langue
 ---

@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
+  key: Horaires et informations pratiques
   order: 6
   parent:
 ---

@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: 
 eleventyNavigation:
-  key: 
-  order: 6
-  parent:
+  key: Formation efficacité professionnelle
+  order: 1
+  parent: Formation professionnelle
 ---
