@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: Financement
 ---
 
-e CPF est un dispositif qui vous permet de financer votre formation. Chez Lyon-Langues, nous acceptons les financements CPF pour la plupart de nos formations linguistiques. Pour en savoir plus sur notre école, consultez notre [page principale](/Lyon-Langues.html).
+Le CPF est un dispositif qui vous permet de financer votre formation. Chez Lyon-Langues, nous acceptons les financements CPF pour la plupart de nos formations linguistiques. Pour en savoir plus sur notre école, consultez notre [page principale](/Lyon-Langues.html).
 
 ## Nos formations éligibles au CPF
 Lyon-Langues propose une large gamme de formations éligibles au CPF. Quel que soit votre niveau de langue ou vos objectifs, nous avons une formation adaptée à vos besoins. Pour en savoir plus sur les formations que nous proposons, visitez [notre partenaire de formation](http://site-pertinent-1.com).
