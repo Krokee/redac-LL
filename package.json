@@ -1,0 +1,17 @@
+{
+  "name": "redac-ll",
+  "version": "1.0.0",
+  "description": "Dummy texts for Lyon-Langues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5"
+  }
+}
