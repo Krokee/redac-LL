@@ -14,10 +14,3 @@ Chez Lyon-Langues, nous proposons une variété de solutions de financement pour
 
 ### Choisissez la meilleure option de financement pour vous
 Quelle que soit votre situation, il y a une option de financement qui vous conviendra. Que vous cherchiez à passer un test de langue, un examen de langue, un test de langue française ou un test de niveau de langue, nous avons un programme pour vous. Pour explorer vos options de financement, visitez notre [page dédiée](../lien-interne/index.md) ou consultez [ce site](http://site-pertinent-3.com).
-
-#### Nos offres de financement
-- [POE](./poe)
-- [CPF](./cpf)
-- [Plan de Formation](./plan-de-formation)
-- [Plan de développement des compétences](./plan-de-developpement-des-competences)
-- [Financement](.)

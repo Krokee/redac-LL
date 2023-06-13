@@ -14,10 +14,3 @@ L'AFPR est un dispositif qui permet aux entreprises de former des demandeurs d'e
 
 ### Mettre en place un Plan de Formation dans votre entreprise
 Si vous êtes un employeur, vous pouvez mettre en place un plan de formation pour vos employés chez Lyon-Langues. Pour en savoir plus sur comment mettre en place un plan de formation dans votre entreprise, consultez notre [page dédiée](http://lien-interne/). Pour lire les témoignages d'entreprises qui ont mis en place un plan de formation avec nous, rendez-vous sur [ce site](http://site-pertinent-3.com).
-
-#### Autres offres de financement de Lyon-Langues
-- [Financement](../)
-- [POE](../poe)
-- [CPF](../cpf)
-- [Plan de Formation](.)
-- [Plan de développement des compétences](../plan-de-developpement-des-competences)

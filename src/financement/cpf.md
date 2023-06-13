@@ -1,6 +1,6 @@
 ---
 layout: "layout.njk"
-title: La Formation avec le Compte Personnel de Formation (CPF) à Lyon-Langues
+title: La Formation avec le Compte Personnel de Formation (CPF) chez Lyon-Langues
 eleventyNavigation:
   key: CPF
   order: 3

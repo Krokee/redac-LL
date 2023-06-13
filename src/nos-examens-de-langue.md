@@ -14,14 +14,3 @@ Choisir le bon examen peut vous aider à démontrer vos compétences linguistiqu
 
 ### Préparez-vous efficacement pour votre examen
 Un bon examen de langue est un excellent moyen de montrer vos compétences linguistiques. Que vous passiez un test de langue, un examen de langue, un test de langue française ou un test de niveau de langue, une préparation efficace est essentielle. Pour explorer vos options, visitez notre [page dédiée](../lien-interne) ou consultez [ce site](http://site-pertinent-3.com).
-
-#### Nos offres d'examens de langues
-- [Ev@lang](./evalang)
-- [Certification pipplet Flex](./certification-pipplet-flex)
-- [TCF](./tcf)
-- [Linguaskill](./linguaskill)
-- [TEF Canada](./tef-canada)
-- [TEF IRN](./tef-irn)
-- [DELF - DALF](./delf-dalf)
-- [DCL](./dcl)
-- [Examens](.)

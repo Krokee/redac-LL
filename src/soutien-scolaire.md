@@ -1,6 +1,6 @@
 ---
 layout: "layout.njk"
-title: Soutien Scolaire à Lyon-Langues
+title: Soutien Scolaire chez Lyon-Langues
 eleventyNavigation:
   key: Soutien scolaire
   order: 6
@@ -14,9 +14,3 @@ Nous offrons également des cours de soutien scolaire en ligne pour offrir une p
 
 ### Soutien scolaire pour le collège
 Notre programme de soutien scolaire pour le collège se concentre sur l'amélioration des compétences linguistiques et l'acquisition de nouvelles connaissances. Nous offrons également des stages intensifs pour les élèves du collège. Plus de détails sur nos cours pour collégiens sur notre [page dédiée](http://lien-interne/). Les témoignages de nos élèves sont disponibles sur [ce site](http://site-pertinent-3.com).
-
-#### Voir aussi
-- [À propos](/a-propos)
-- [Nous contacter](/nous-contacter)
-- [Soutien scolaire](.)
-- [FAQ](/faq)

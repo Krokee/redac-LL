@@ -40,11 +40,16 @@ title: Lyon-Langues
 
 							<hr>
 
-							<h3>Voir aussi</h3>
 							{# on prend les éléments de la page en cours #}
 							{% set navPages = collections.all | eleventyNavigation(eleventyNavigation.key) %}
+
+							{% if navPages | length > 0 %}
+								<h4>{{eleventyNavigation.key}}</h4>
+							{% endif %}
+
 							{# s'il n'y a pans d'éléments en dessous de l'élément en cours, on remonte d'un niveau pour montrer les pages du même niveau#}
 							{% if navPages | length == 0 %}
+								<h4>Voir aussi</h4>
 								{% set navPages = collections.all | eleventyNavigation(eleventyNavigation.parent) %}
 							{% endif %}
 							{# on affiche les éléments #}
@@ -55,11 +60,6 @@ title: Lyon-Langues
 									</li>
 								{%- endfor %}
 							</ul>
-
-							<hr>
-
-							{{eleventyNavigation.parent}}
-							<hr>
 
 							{# For debugging purposes, we can dump the navigation data to the page: #}
 							{# {% set navPages = collections.all | eleventyNavigation(eleventyNavigation.parent) %}

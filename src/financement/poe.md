@@ -14,10 +14,3 @@ Notre programme POE est conçu pour aider les demandeurs d'emploi à acquérir l
 
 ### Comment bénéficier de la POE à Pôle emploi
 Si vous êtes demandeur d'emploi inscrit à Pôle emploi, vous pouvez bénéficier de la POE. Pour en savoir plus sur comment postuler à la POE via Pôle emploi, consultez notre [page dédiée](http://lien-interne/). Pour lire les témoignages de nos étudiants ayant bénéficié de la POE, rendez-vous sur [ce site](http://site-pertinent-3.com).
-
-#### Autres offres de financement de Lyon-Langues
-- [Financement](/..)
-- [POE](.)
-- [CPF](../cpf)
-- [Plan de formation](../plan-de-formation)
-- [Plan de développement des compétences](../plan-de-developpement-des-competences)
