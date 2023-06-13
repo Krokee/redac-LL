@@ -2,10 +2,9 @@
   "name": "redac-ll",
   "version": "1.0.0",
   "description": "Dummy texts for Lyon-Langues",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "npx @11ty/eleventy --serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
