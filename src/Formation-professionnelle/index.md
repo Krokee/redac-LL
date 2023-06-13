@@ -1,9 +1,11 @@
 ---
 layout: "layout.njk"
-title: "Formation professionnelle"
+title: Formation professionnelle
 eleventyNavigation:
-  key: "Formation professionnelle"
+  key: Formation professionnelle
   order: 5
-  parent: "Accueil"
+  parent: Accueil
 ---
+
+FP
 

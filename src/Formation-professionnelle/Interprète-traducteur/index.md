@@ -1,7 +1,7 @@
 ---
 layout: "layout.njk"
 title: "Formation d'interprète-traducteur à Lyon-Langues"
-eleventynavigation:
+eleventyNavigation:
   key: "Interprète-traducteur"
   order: 2
   parent: "Formation professionnelle"
@@ -20,7 +20,7 @@ En plus de nos formations, nous proposons des services de traduction, y compris 
 
 #### Autres formations professionnelles proposées par Lyon-Langues
 
-- [Formation en efficacité professionnelle](/Formation-professionnelle/formation-efficacite-professionnelle)
-- [Règles d'orthographe](/Formation-professionnelle/regles-orthographe)
+- [Formation en efficacité professionnelle](../Formation-efficacité-professionnelle)
+- [Règles d'orthographe](../Règles-orthographe)
 - [Interprète-traducteur](.)
 

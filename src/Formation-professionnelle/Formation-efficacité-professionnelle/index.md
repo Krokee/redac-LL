@@ -1,10 +1,10 @@
 ---
 layout: "layout.njk"
-title: "Formation pour développer son efficacité professionnelle à Lyon-Langues"
-eleventynavigation:
-  key: "Formation efficacité professionnelle"
-  order: 3
-  parent: "Formation professionnelle"
+title: Formation pour développer son efficacité professionnelle à Lyon-Langues
+eleventyNavigation:
+  key: Formation efficacité professionnelle
+  order: 5
+  parent: Formation professionnelle
 ---
 
 # Formation pour développer son efficacité professionnelle à Lyon-Langues
@@ -35,6 +35,6 @@ En plus de notre formation à l'efficacité professionnelle, nous proposons une 
 #### Autres formations professionnelles proposées par Lyon-Langues
 
 - [Formation en efficacité professionnelle](.)
-- [Règles d'orthographe](/Formation-professionnelle/regles-orthographe)
-- [Interprète-traducteur](/Formation-professionnelle/interprete-traducteur)
+- [Règles d'orthographe](../Règles-orthographe)
+- [Interprète-traducteur](../Interprète-traducteur)
 
