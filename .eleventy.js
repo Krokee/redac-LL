@@ -6,6 +6,9 @@ module.exports = function (eleventyConfig) {
 
 	// Autres configurations
 
+	// Copy srp/pics/*.png to dist/pics/*.png
+	eleventyConfig.addPassthroughCopy("src/pics");
+
 	return {
 		dir: {
 			input: "src",
