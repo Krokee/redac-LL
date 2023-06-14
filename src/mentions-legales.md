@@ -7,5 +7,5 @@ eleventyNavigation:
   parent:
 ---
 
-MEentions légales à faire rédiger par un pro du secteur.
+Mentions légales à faire rédiger par un pro du secteur.
 Alternativement, générateur [ORSON.io](https://fr.orson.io/1371/generateur-mentions-legales).
