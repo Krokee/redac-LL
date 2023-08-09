@@ -8,18 +8,26 @@ eleventyNavigation:
 ---
 
 
-Le **Fonds Paritaire de Sécurisation des Parcours Professionnels** (FPSPP) est un outil important qui peut vous aider à financer votre formation linguistique à Lyon Langues. Si vous êtes un professionnel cherchant à améliorer vos compétences linguistiques, découvrez comment le FPSPP peut vous aider.
+# Fond paritaire de sécurisation des parcours pros (FPSPP)
 
-## Qu'est-ce que le Fonds Paritaire de Sécurisation des Parcours Professionnels (FPSPP) ?
-Le FPSPP est un dispositif qui finance des formations pour les salariés et les demandeurs d'emploi. Il vise à améliorer l'employabilité et la progression professionnelle de ceux qui souhaitent acquérir de nouvelles compétences. Que vous soyez intéressé par l'apprentissage de l'anglais, du coréen, de l'espagnol, du japonais, du portugais, du chinois, de l'allemand, de l'italien, du russe, du suédois, de l'hébreu, de l'arabe, ou du français, le FPSPP peut financer votre formation.
+## Le FPSPP, c'est quoi ?
+L'AIF, ou **Fond paritaire de sécurisation des parcours professionnels (FPSPP)**, est un fonds dédié à sécuriser les parcours professionnels des salariés tout en favorisant le maintien et le retour à l'emploi pour les individus les plus vulnérables sur le marché du travail, notamment via le Compte Personnel de Formation (CPF). Il joue un rôle crucial dans le financement d'actions de qualification ou requalification.
 
-### Comment bénéficier du FPSPP ?
-Pour bénéficier du FPSPP, il faut faire une demande auprès de votre OPCA (Organisme Paritaire Collecteur Agréé). Une fois votre demande acceptée, vous pourrez utiliser le FPSPP pour financer votre formation linguistique à Lyon Langues.
+## Qui le finance ?
+Le FPSPP est financé principalement grâce à une cotisation des employeurs de 11 salariés et plus. Cette cotisation est incluse dans leur contribution fiscale unique, qui est versée à l'OPCA (Organisme Paritaire Collecteur Agréé). Cette cotisation s'élève à :
+- **0,15 %** de la masse salariale pour les employeurs ayant entre 11 à 49 salariés.
+- **0,20 %** pour les employeurs comptant 50 salariés et plus.
+De plus, les ressources du FPSPP sont également complétées par des contributions de l'État et/ou du FSE.
 
-## Suivez une Formation Linguistique avec le FPSPP à Lyon Langues
-Chez Lyon Langues, nous nous engageons à proposer des cours de langues variés et de qualité, accessibles en ligne ou en présentiel, individuellement ou en groupe. Grâce au FPSPP, vous pouvez développer vos compétences linguistiques sans contrainte financière.
+## Qui en bénéficie ?
+Le FPSPP est destiné aussi bien aux salariés qu'aux demandeurs d'emploi. Il vise à financer des actions de (re)qualification pour ces deux groupes. De plus, il a pour mission d'accompagner l'implémentation du CPF pour les demandeurs d'emploi, de soutenir la formation des salariés des petites entreprises, de promouvoir la formation en alternance, et bien plus encore.
 
-### Commencez votre Formation avec le FPSPP
-Si vous êtes intéressé par l'utilisation du FPSPP pour financer votre formation linguistique, n'hésitez pas à nous contacter. Notre équipe est là pour vous accompagner dans vos démarches et vous aider à organiser votre formation.
+## Quand en bénéficier ?
+Les actions financées par le FPSPP sont déterminées par des appels à projets. Ces appels à projets sont lancés régulièrement, en fonction des besoins et des objectifs fixés par les partenaires sociaux et l’État. Les projets retenus sont inscrits dans le cadre d’une annexe financière qui est renégociée chaque année.
 
-L'apprentissage d'une nouvelle langue est une compétence précieuse qui peut ouvrir de nouvelles opportunités. Avec le FPSPP, nous vous aidons à atteindre vos objectifs linguistiques. Commencez votre voyage linguistique avec nous à Lyon Langues.
+## Quelles formations de Lyon Langues sont concernées par ce dispositif ?
+Lyon Langues, étant une école de langues renommée, offre une variété de formations qui peuvent être éligibles au financement par le FPSPP. Cela dépend principalement des appels à projets actuels et des besoins spécifiques identifiés par les partenaires sociaux et l’État. Nous vous invitons à consulter régulièrement notre site web ou à contacter notre équipe pour obtenir des informations détaillées sur les formations éligibles actuellement.
+
+---
+
+*Pour obtenir plus d'informations sur le FPSPP ou pour discuter des formations éligibles chez Lyon Langues, n'hésitez pas à nous contacter.*

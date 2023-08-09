@@ -8,22 +8,26 @@ eleventyNavigation:
 ---
 
 
-Ev@lang est un outil d'évaluation en ligne pour évaluer les compétences en langue. Que vous soyez à la recherche d'un test Ev@lang gratuit, d'un entraînement Ev@lang, que vous visiez le niveau B1 Ev@lang, ou que vous cherchiez à utiliser Ev@lang pour améliorer votre anglais, vous êtes au bon endroit. En savoir plus sur notre école sur notre [page principale](/).
+## Qu'est-ce que ev@lang?
 
-## Qu'est-ce que le test Ev@lang ?
+Ev@lang n'est pas simplement un test de positionnement, c'est votre boussole linguistique en ligne. Développé par le Centre international d'études pédagogiques (CIEP) et proposé par France Éducation International, Ev@lang est conçu pour évaluer avec précision votre compétence en langue. Que vous souhaitiez connaître votre niveau en français, anglais ou arabe, Ev@lang est l'outil idéal pour obtenir une évaluation rapide et précise sans passer par le processus formel de certification ou de diplômation.
 
-Ev@lang est un test de compétences linguistiques en ligne. Il offre une évaluation précise et détaillée de vos compétences linguistiques. Le test Ev@lang est rapide, facile à utiliser, et il offre un entraînement Ev@lang pour vous aider à vous préparer.
+## Les langues proposées
 
-### Niveaux d'évaluation Ev@lang
+Ev@lang est une porte ouverte vers trois des langues les plus parlées et recherchées dans le monde: le français, l'anglais et l'arabe. Que vous souhaitiez évaluer vos compétences pour des raisons professionnelles, académiques ou personnelles, Ev@lang est là pour répondre à vos besoins.
 
-Le test Ev@lang offre une évaluation précise de vos compétences linguistiques, que vous soyez au niveau débutant ou avancé. Si vous visez le niveau B1 Ev@lang, nous pouvons vous aider à y arriver.
+## La manière dont le test est évalué
 
-#### Utilisation d'Ev@lang pour l'anglais
+Ce n'est pas un test standard. Ev@lang est adaptatif, ajustant la difficulté de ses questions selon vos réponses, ce qui permet une évaluation fine et pertinente de votre niveau linguistique. Il évalue vos compétences en compréhension orale et écrite, en production orale et écrite, ainsi que votre connaissance de la grammaire et du vocabulaire. Ainsi, à l'issue du test, vous serez en mesure de vous situer sur l'échelle du Cadre européen commun de référence pour les langues (CECRL), des niveaux A1 au B2.
 
-Ev@lang offre une évaluation précise de vos compétences en anglais. Que vous soyez au lycée, en 3e ou que vous cherchiez simplement à améliorer votre anglais, Ev@lang est l'outil qu'il vous faut.
+## Pourquoi choisir Lyon Langues pour son test ev@lang?
 
-#### La plateforme Ev@lang
+Lyon Langues, avec son expérience avérée dans le domaine des langues, est le choix évident pour passer votre test Ev@lang. Nous sommes non seulement à jour avec les standards d'Ev@lang, mais aussi fiers de notre approche centrée sur le candidat, garantissant une expérience fluide et professionnelle.
 
-La plateforme Ev@lang est facile à utiliser et offre une évaluation précise et détaillée de vos compétences linguistiques. Pour en savoir plus, visitez notre [page dédiée à la plateforme Ev@lang](../../lien-interne).
+## Comment le passer / s'inscrire?
+
+Le processus est simple et entièrement numérisé. Après avoir acheté votre test sur notre plateforme, vous pouvez le passer en ligne à tout moment, où que vous soyez, sans contraintes de lieu ou d'horaire. Il suffit d'un ordinateur et d'une connexion Internet. 
+
+En somme, si vous recherchez une évaluation rapide, précise et adaptée de votre niveau de langue, que ce soit en français, anglais ou arabe, le test Ev@lang est votre meilleur allié. Et chez Lyon Langues, nous sommes prêts à vous guider dans cette démarche. Inscrivez-vous dès maintenant et découvrez où vous vous situez dans le vaste univers linguistique!
 
 Retour à la liste des [examens de langues](../).

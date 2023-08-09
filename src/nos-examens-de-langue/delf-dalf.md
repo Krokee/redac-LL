@@ -8,28 +8,46 @@ eleventyNavigation:
 ---
 
 
-Les diplômes de **DELF (Diplôme d'études en langue française)** et **DALF (Diplôme approfondi de langue française)** sont des certifications officielles délivrées par le ministère français de l'éducation pour certifier la compétence des candidats étrangers et des Français d'origine non francophone en français. À Lyon Langues, nous vous proposons des préparations complètes pour ces examens.
+## Qu'est-ce que le DELF et qu'est-ce que le DALF ?
 
-## Niveaux DELF et DALF
-Les examens DELF et DALF sont basés sur le Cadre européen commun de référence pour les langues (CECRL). Il y a six niveaux d'examen :
-- **DELF A1** : Découverte
-- **DELF A2** : Survie
-- **DELF B1** : Seuil
-- **DELF B2** : Indépendant
-- **DALF C1** : Autonome
-- **DALF C2** : Maîtrise
+**Le DELF (Diplôme d'Études en Langue Française)** est un diplôme officiel et national géré par France Éducation International à destination des non-francophones. Il est segmenté en quatre niveaux distincts : A1, A2, B1, B2. Chacun de ces niveaux peut être passé indépendamment des autres, et ils sont valides à vie une fois obtenus.
 
-Chaque niveau correspond à un ensemble de compétences linguistiques spécifiques. 
+**Le DALF (Diplôme Approfondi de Langue Française)** est, lui aussi, un diplôme national destiné aux non-francophones. Il comprend deux niveaux d'expertise, à savoir C1 et C2. Tout comme le DELF, les diplômes DALF sont valables à vie dès leur acquisition.
 
-### Préparez-vous pour le DELF et le DALF à Lyon
-Lyon Langues propose des cours de préparation au DELF et au DALF qui sont spécialement conçus pour vous aider à obtenir les meilleurs résultats possibles à l'examen. Nos formateurs expérimentés vous aideront à comprendre le format de l'examen, à développer vos compétences en français et à vous donner des stratégies pour réussir.
+## Quelles sont les épreuves de l'examen ?
 
-## Comment se préparer pour le DELF et le DALF ?
-La préparation est la clé de la réussite à tout examen de compétence linguistique. Cela signifie comprendre le format de l'examen, renforcer vos compétences en français et vous entraîner avec des exemples de tâches comme la **DELF A2 production écrite**. À Lyon Langues, nous vous fournissons tout ce dont vous avez besoin pour vous préparer efficacement.
+Chaque examen évalue les quatre compétences linguistiques majeures en français : compréhension orale, compréhension écrite, expression orale et expression écrite. Les détails spécifiques des épreuves varient selon le niveau de l'examen.
 
-### Inscription au DELF et au DALF
-L'**inscription au DELF et au DALF** se fait généralement par l'intermédiaire d'un centre d'examen agréé, comme Lyon Langues. Pour plus d'informations sur le processus d'inscription, veuillez nous contacter.
+## Quels sont les niveaux pouvant être évalués par l'examen ?
 
-## Passez Votre DELF et DALF à Lyon Langues
-Êtes-vous prêt à franchir la prochaine étape de votre voyage linguistique ? Contactez-nous dès aujourd'hui pour commencer votre préparation au DELF et au DALF.
+Le DELF couvre les niveaux A1, A2, B1 et B2 tandis que le DALF englobe les niveaux C1 et C2. 
 
+**DELF Junior** : Une version adaptée pour les jeunes de 12 à 17 ans, axée sur le contexte scolaire et quotidien. Les niveaux évaluables sont A1, A2, B1, et B2.
+
+## Dates et horaires des sessions
+
+Les examens ont lieu pendant des sessions de deux semaines, durant lesquelles vous serez convoqué deux fois. Le jour et l'heure exacts de la convocation sont communiqués une semaine avant le début de la session.
+
+## Comment le passer / s'inscrire ?
+
+L'inscription se fait soit en ligne via notre site ou directement dans notre centre d'examen à Lyon. Notez que toute inscription est définitive.
+
+## Pourquoi choisir Lyon Langues by Inflexyon pour le passer ?
+
+- Centre de passation agréé.
+- Offre adaptée aux adultes et aux juniors.
+- Sessions régulières tout au long de l'année.
+- Équipe expérimentée pour guider les candidats.
+  
+## À qui s'adresse cet examen ?
+
+Le DELF DALF est destiné à :
+
+- Ceux souhaitant obtenir une preuve officielle de leur compétence en français.
+- Étudiants envisageant de rejoindre une institution éducative en France.
+- Individus ayant étudié en France et désireux de valider leur niveau.
+- Personnes cherchant à s'intégrer en France.
+- Individus en phase de demande de nationalité ou de carte de résidence.
+
+
+Que vous soyez étudiant, professionnel ou simplement passionné par la langue française, le DELF et le DALF sont vos passeports pour certifier votre maîtrise du français. Venez découvrir nos sessions à Lyon Langues by Inflexyon et franchissez une étape majeure dans votre parcours linguistique !

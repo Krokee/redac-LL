@@ -7,20 +7,23 @@ eleventyNavigation:
   parent: Financement
 ---
 
+Le Contrat de Sécurisation Professionnelle est un dispositif qui offre aux salariés menacés d'un licenciement économique une alternative et un soutien pour une reconversion ou un retour à l'emploi rapide. Notre établissement, Lyon Langues, est fier d'être inclus dans ce dispositif pour aider ces salariés à s'adapter aux exigences du marché du travail actuel. 
 
-Si vous êtes en transition professionnelle, le **Contrat de Sécurisation Professionnelle** (CSP) est une opportunité pour financer une formation linguistique et élargir vos horizons professionnels. Lyon Langues, votre école de langues à Lyon, est là pour vous aider à réaliser cet objectif.
+## Le CSP c'est quoi ?
+Le CSP est une mesure destinée à aider les salariés touchés par un licenciement économique. Il offre un ensemble de prestations pour accélérer leur repositionnement professionnel, notamment à travers des formations adaptées comme celles proposées par Lyon Langues.
 
-## Qu'est-ce que le Contrat de Sécurisation Professionnelle (CSP) ?
-Le Contrat de Sécurisation Professionnelle est un dispositif destiné à accompagner les salariés licenciés pour motif économique dans leur reconversion professionnelle. Il offre la possibilité de suivre une formation financée pour acquérir de nouvelles compétences. Que vous soyez intéressé par l'apprentissage de l'anglais, du coréen, de l'espagnol, du japonais, du portugais, du chinois, de l'allemand, de l'italien, du russe, du suédois, de l'hébreu, de l'arabe, ou du français, le CSP peut vous aider à financer votre formation.
+## Qui le finance ?
+Le CSP est financé par Pôle emploi. Le salarié sous CSP reçoit une allocation de sécurisation professionnelle (ASP) pour le soutenir pendant la durée de sa reconversion ou sa recherche d'emploi.
 
-### Comment bénéficier du Contrat de Sécurisation Professionnelle ?
-Pour bénéficier du Contrat de Sécurisation Professionnelle, vous devez être éligible et accepter ce dispositif dans un délai de 21 jours suivant votre licenciement. Une fois que vous avez adhéré au CSP, vous pouvez choisir de suivre une formation linguistique chez Lyon Langues.
+## Qui en bénéficie ?
+Le CSP est destiné aux salariés en CDI dont le licenciement économique est envisagé. Cependant, l'obligation de proposer un CSP par l'employeur dépend de l'effectif de l'entreprise. Toutes les entreprises en situation de liquidation ou de redressement judiciaire doivent, néanmoins, le proposer.
 
-## Suivez une Formation Linguistique avec le Contrat de Sécurisation Professionnelle
-Chez Lyon Langues, nous proposons une grande variété de cours de langues pour répondre aux besoins de tous les apprenants. Quel que soit votre niveau ou vos objectifs, nos formateurs expérimentés sont là pour vous aider à progresser.
+## Quand en bénéficier ?
+Le salarié a 21 jours calendaires pour accepter ou refuser la proposition de CSP. Cette période débute le lendemain de la remise du document d'information sur le CSP par l'employeur. Durant ce délai, le salarié peut également s'informer davantage sur le dispositif grâce à un entretien organisé par Pôle emploi.
 
-### Commencez votre Formation avec le Contrat de Sécurisation Professionnelle
-Si vous êtes intéressé par l'idée de financer votre formation linguistique grâce au Contrat de Sécurisation Professionnelle, n'hésitez pas à nous contacter. Notre équipe se fera un plaisir de vous accompagner dans vos démarches et de vous aider à organiser votre formation.
+## Quelles formations de Lyon Langues sont concernées par ce dispositif ?
+Lyon Langues, conscient de l'importance de la maîtrise des langues dans le monde professionnel actuel, propose un éventail de formations adaptées aux besoins des salariés en reconversion. Que vous cherchiez à perfectionner une langue déjà connue ou à en apprendre une nouvelle, nos cours peuvent être intégrés dans le cadre du CSP pour vous offrir une compétence supplémentaire dans votre quête d'un nouveau poste. 
 
-La maîtrise d'une nouvelle langue peut ouvrir de nouvelles opportunités professionnelles. Avec le Contrat de Sécurisation Professionnelle, nous vous aidons à atteindre vos objectifs linguistiques. Commencez votre voyage avec nous à Lyon Langues.
+---
 
+Grâce au CSP, vous avez la possibilité de transformer une situation potentiellement difficile en une opportunité de croissance professionnelle. Lyon Langues est là pour vous accompagner dans cette nouvelle étape de votre carrière.

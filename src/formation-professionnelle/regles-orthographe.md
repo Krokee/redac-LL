@@ -1,18 +1,37 @@
 ---
 layout: "layout.njk"
-title: Règles d’orthographe
+title: Règles d’orthographe et de grammaire à Lyon-Langues
 eleventyNavigation:
   key: Règles d'orthographe
   order: 3
   parent: Formation professionnelle
 ---
 
-Nous proposons à Lyon-Langues une formation spécifique pour maîtriser les règles d'orthographe et de grammaire. Une équipe de professionnels de l'orthographe est à votre disposition pour vous aider à améliorer vos compétences linguistiques.
+## Présentation de la formation
+Dans le contexte professionnel actuel où la communication est primordiale, une maîtrise impeccable de la grammaire et de l'orthographe est essentielle pour garantir une communication écrite efficace. Notre formation se consacre à optimiser vos compétences rédactionnelles en abordant de manière approfondie les règles de grammaire et d'orthographe en français, ainsi que dans de nombreuses autres langues.
 
-## Formation d'orthographe et grammaire
+## Quel est l'intérêt de cette formation?
+- **Gain en efficacité :** Une meilleure maîtrise de la grammaire et de l'orthographe permet de rédiger des messages clairs et précis, réduisant ainsi les malentendus et les erreurs de communication.
+  
+- **Gain en crédibilité :** La qualité de votre écrit reflète la qualité de votre travail. Des écrits exempts d'erreurs grammaticales et orthographiques augmentent votre professionnalisme et crédibilité.
+  
+- **Gain en qualité :** La structuration claire de vos écrits, ainsi que l'emploi d'un vocabulaire riche et adapté, améliorent nettement la qualité de votre communication écrite.
 
-Notre formation en orthographe et grammaire est destinée à tous ceux qui souhaitent améliorer leurs compétences en français écrit. Que vous soyez étudiant, professionnel ou que le français soit votre seconde langue, cette formation est faite pour vous. Pour en savoir plus, consultez notre [page dédiée](http://site-pertinent-1.com).
+## Qui cela concerne?
+- **Professionnels :** Cherchant à perfectionner leur qualité rédactionnelle pour renforcer leur efficacité en communication.
+- **Particuliers :** Souhaitant améliorer leurs compétences en écriture dans un contexte professionnel ou personnel.
+- **Entreprises :** Voulant optimiser la qualité rédactionnelle de leur équipe pour renforcer leur image de marque et leur efficacité communicationnelle.
+- **Décideurs :** Cherchant à offrir des opportunités de développement à leurs employés, en leur permettant de parfaire leur maîtrise de l'écrit.
 
-### Cours d'orthographe et de grammaire
+## Pourquoi choisir Lyon Langues pour la faire?
+- **Expertise pédagogique :** Des formateurs expérimentés, diplômés et natifs dédiés à vos besoins spécifiques.
+- **Flexibilité :** Des formations en présentiel à Lyon, en entreprise ou en distanciel. Adaptable à tous les emplois du temps.
+- **Langues diversifiées :** Une formation disponible dans une gamme variée de langues, dont le français, l'anglais, l'espagnol et bien d'autres.
+- **Suivi et évaluation :** Une procédure d'évaluation en trois phases pour assurer l'efficacité et le suivi continu de la formation.
 
-Nos cours d'orthographe et de grammaire sont dispensés par une équipe de professionnels expérimentés. Ils vous aideront à comprendre les règles et les exceptions de la langue française, pour vous permettre de vous exprimer avec plus de confiance et de précision. Pour plus d'informations, consultez notre [page de cours](http://lien-interne).
+## S'inscrire
+Ne laissez pas les erreurs d'orthographe ou de grammaire entraver votre communication professionnelle. **Rejoignez-nous dès aujourd'hui** pour une formation qui transformera votre manière de communiquer à l'écrit.
+
+---
+
+Pour une communication professionnelle de qualité, optez pour la maîtrise impeccable des règles de grammaire et d'orthographe avec **Lyon Langues**.
