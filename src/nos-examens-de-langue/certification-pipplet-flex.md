@@ -7,21 +7,36 @@ eleventyNavigation:
   parent: Nos examens de langue
 ---
 
+Désirez-vous évaluer vos compétences linguistiques en situation professionnelle ? La certification Pipplet Flex pourrait être l'outil parfait pour vous. Cette certification offre une évaluation complète et pertinente de vos compétences linguistiques, que vous soyez un professionnel cherchant à prouver votre niveau ou un employeur désireux d'évaluer le niveau de vos collaborateurs.
 
-La **Certification Pipplet Flex** est un outil de mesure complet de votre compétence linguistique. Reconnue par France Compétences, elle est particulièrement adaptée pour évaluer les compétences de communication en langue étrangère dans un contexte professionnel. À Lyon Langues, nous sommes fiers de vous accompagner dans l'obtention de cette certification.
+## Qu'est-ce que Pipplet ?
 
-## Qu'est-ce que le Test Pipplet ?
-Le **Test Pipplet** est un examen complet qui évalue toutes les compétences linguistiques : compréhension écrite et orale, expression écrite et orale. L'examen se fait en ligne et dure 30 minutes. Grâce à la Certification Pipplet Flex, vous pouvez prouver votre niveau de compétence linguistique de manière objective et reconnue.
+Pipplet est une solution d'évaluation linguistique innovante destinée aux professionnels. Grâce à sa méthodologie basée sur des mises en situation, Pipplet évalue efficacement votre capacité à communiquer en langue étrangère dans un contexte professionnel.
 
-### Pourquoi Choisir la Certification Pipplet Flex ?
-La Certification Pipplet Flex est un outil précieux pour tout professionnel cherchant à prouver ses compétences linguistiques. Elle est reconnue par **France Compétences** et est acceptée par de nombreuses entreprises et institutions à travers le monde. Que vous souhaitiez améliorer votre employabilité, évoluer dans votre carrière ou simplement certifier votre niveau de langue, la Certification Pipplet Flex est une excellente option.
+## Le test de positionnement Pipplet
 
-## Préparez-vous pour le Test Pipplet à Lyon Langues
-Chez Lyon Langues, nous vous proposons une **formation spécifique** pour vous préparer au Test Pipplet. Grâce à notre expertise, nous vous aiderons à maximiser vos chances de réussite à l'examen.
+Le test de positionnement Pipplet sert à évaluer les compétences orales et écrites en 30 minutes. Il est adaptatif et ses questions varient selon vos réponses. Vous recevrez, 24 heures après le passage du test, un rapport détaillé de vos compétences linguistiques. Bien qu'il ne délivre pas une certification à proprement parler, il fournit un aperçu précis de vos aptitudes.
 
-### Comment se préparer pour la Certification Pipplet Flex ?
-Pour vous préparer efficacement à la Certification Pipplet Flex, il est important de bien connaître le format de l'examen et de travailler toutes les compétences linguistiques évaluées. À Lyon Langues, nos formateurs expérimentés vous guideront à travers ce processus, vous fournissant les outils et les stratégies dont vous avez besoin pour réussir.
+## La certification Pipplet Flex
 
-## Obtenez Votre Certification Pipplet Flex avec Lyon Langues
-Êtes-vous prêt à prouver vos compétences linguistiques avec la Certification Pipplet Flex ? Contactez-nous pour commencer votre préparation. Chez Lyon Langues, nous sommes là pour vous aider à atteindre vos objectifs linguistiques.
+Contrairement au test de positionnement, la certification Pipplet Flex offre une reconnaissance formelle de vos compétences linguistiques. Évalué par des professionnels selon une mise en situation, le Pipplet Flex mesure l’expression orale et écrite ainsi que la compréhension orale et écrite. Vous obtiendrez également des indicateurs sur la prononciation, l’aisance, la cohérence du discours, et des recommandations pour vous améliorer.
 
+## Les niveaux et langues concernés
+
+La certification Pipplet Flex couvre un éventail de niveaux, allant de A1 à C2 selon le CECRL (Cadre Européen Commun de Référence pour les Langues). Elle est disponible dans plusieurs langues dont l'anglais, l'allemand, l'arabe, le chinois, le coréen, l'espagnol, le français, et bien d'autres.
+
+## Modalités de l'examen
+
+L'examen Pipplet Flex peut être passé en distanciel, à partir de n'importe quel ordinateur disposant d'un accès internet. Il dure une trentaine de minutes, avec des évaluations basées sur des mises en situation réelles et professionnelles.
+
+## Pourquoi choisir Lyon langue pour la passer ?
+
+Lyon langue est un centre reconnu pour son expertise en matière d'évaluation linguistique. En optant pour notre centre, vous bénéficierez d'un accompagnement de qualité, d'une procédure d'inscription simplifiée, ainsi que de conseils avisés pour préparer votre examen.
+
+## Comment s'inscrire ?
+
+L'inscription à la certification Pipplet Flex par le biais de Lyon Langue est simple et rapide. Contactez-nous pour plus d'informations sur les dates disponibles et les modalités d'inscription.
+
+---
+
+En conclusion, que vous cherchiez à évaluer votre niveau ou à obtenir une certification linguistique reconnue, Pipplet est une solution adaptée, fiable et rapide. Contactez Lyon langue dès aujourd'hui et franchissez un nouveau cap dans votre maîtrise des langues étrangères.

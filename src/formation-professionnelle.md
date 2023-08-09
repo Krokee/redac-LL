@@ -8,22 +8,33 @@ eleventyNavigation:
 ---
 
 
-La **formation professionnelle** chez Lyon Langues vous offre l'opportunité d'améliorer vos compétences linguistiques pour une meilleure performance professionnelle. Que vous soyez un professionnel en activité, un adulte en reconversion ou un étranger résidant en France, notre gamme de cours est conçue pour répondre à vos besoins spécifiques.
+Lyon Langues, acteur incontournable dans le paysage linguistique depuis de nombreuses années, dévoile toute son expertise aux professionnels. Élevons ensemble le niveau linguistique de vos collaborateurs et renforcez votre image de marque à l'international.
 
-## Des Cours de Langues Professionnels pour Tous les Niveaux
-Chez Lyon Langues, nous proposons des **cours d'anglais professionnel** et des cours dans 12 autres langues. Nos cours sont disponibles en ligne et en présentiel, en individuel ou en groupe. Grâce à notre approche pédagogique flexible et individualisée, vous pouvez choisir le format qui convient le mieux à vos besoins et objectifs.
+## Les différents axes sur lesquels nous pouvons travailler auprès des professionnels
 
-### Des Cours de Règles d'Orthographe pour une Communication Écrite Efficace
-La maîtrise de l'orthographe est essentielle pour une communication écrite claire et professionnelle. Nos cours de **règles d'orthographe** sont conçus pour vous aider à écrire avec confiance et précision, que ce soit en français ou dans une autre langue.
+Notre savoir-faire ne se limite pas uniquement à la formation linguistique. Voici un aperçu de ce que nous proposons :
 
-## Formation Professionnelle à Lyon : Profitez de Nos Cours de Formation Efficace
-Chez Lyon Langues, nous proposons une **formation efficace** qui vous permettra de progresser rapidement dans la langue de votre choix. Grâce à notre programme de formation CPF à Lyon, vous pouvez bénéficier d'un financement pour votre formation.
+- **Formation Linguistique** : De la *formation efficacité professionnelle* à la maîtrise des *règles d'orthographe*, notre gamme complète répondra à tous vos besoins.
+- **Ateliers Culturels et Team Building** : Stimulez la cohésion d'équipe tout en apprenant.
+- **Intégration au sein d’équipes internationales** : Facilitez l'intégration de vos collaborateurs expatriés.
+- **Enseignement dans les Établissements Scolaires** : Nous proposons également des solutions pour les établissements d'enseignement qui souhaitent élever le niveau linguistique de leurs étudiants.
 
-### Des Formations pour les Adultes, les Salariés et les Étrangers en France
-Que vous soyez un **adulte en reconversion**, un **salarié** cherchant à améliorer vos compétences linguistiques, ou un **étranger résidant en France**, nous avons la formation qui vous convient. Nous proposons également des formations professionnelles à distance pour ceux qui préfèrent apprendre depuis le confort de leur domicile.
+## Des offres sur mesure pour s'adapter aux problématiques d'entreprise
 
-## Commencez Votre Formation Professionnelle à Lyon Langues
-Si vous êtes prêt à faire passer vos compétences linguistiques au niveau supérieur, n'hésitez pas à nous contacter. Notre équipe se fera un plaisir de vous aider à organiser votre formation professionnelle à Lyon Langues.
+Chez Lyon Langues, nous comprenons que chaque entreprise est unique, tout comme ses besoins linguistiques. Que ce soit une formation en *anglais professionnel* ou une immersion culturelle ciblée, nous élaborons des programmes taillés sur mesure.
 
-L'apprentissage d'une nouvelle langue est une compétence précieuse qui peut ouvrir de nouvelles opportunités. Avec notre programme de formation professionnelle, nous vous aidons à atteindre vos objectifs linguistiques. Commencez votre voyage linguistique avec nous à Lyon Langues.
+## Pourquoi nous faisons de la formation professionnelle
 
+L'acquisition de compétences linguistiques est une valeur ajoutée, tant sur le plan individuel que collectif. Elle dynamise une équipe, ouvre de nouvelles perspectives à l'international et renforce l'image de marque de l'entreprise. Voilà pourquoi, depuis près de 10 ans, nous sommes votre partenaire de choix pour l'excellence linguistique.
+
+## Financements possibles
+
+Nous comprenons l'importance de la rentabilité. C'est pourquoi nos formations sont reconnues par les acteurs majeurs de la *formation professionnelle* et peuvent bénéficier de diverses aides au financement. Contactez-nous pour en savoir plus sur ces opportunités.
+
+## Accéder à la fiche de devis
+
+Prêt à propulser votre entreprise à un nouveau niveau linguistique ? [Cliquez ici pour accéder à notre formulaire de devis](#) et définissons ensemble un plan d'action adapté à vos besoins.
+
+---
+
+Avec Lyon Langues, le monde n'attend que vous. Nos experts natifs et diplômés vous guident à travers un parcours linguistique adapté à vos ambitions. Une entreprise, une langue, une mission : votre réussite sur la scène internationale.

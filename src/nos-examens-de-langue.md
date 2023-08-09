@@ -7,10 +7,28 @@ eleventyNavigation:
   parent:
 ---
 
-Chez Lyon-Langues, nous offrons une large gamme d'examens pour vous aider à atteindre vos objectifs linguistiques. Que vous prépariez un test de langue, un examen de langue, un test de langue française, ou que vous cherchiez simplement à évaluer votre niveau de langue, nous avons un examen adapté à vos besoins. En savoir plus sur notre école sur notre [page principale](/).
+## Présentation du centre d'examen
 
-## Quel examen de langue choisir ?
-Choisir le bon examen peut vous aider à démontrer vos compétences linguistiques de manière efficace. Que vous ayez besoin d'un test de langue, d'un examen de langue, d'un test de langue française ou d'un test de niveau de langue, nous sommes là pour vous aider. Pour plus d'informations, consultez [ce site](http://site-pertinent-1.com).
+Depuis une décennie, le groupe Lyon Langues by Inflexyon est le pilier de confiance pour tous ceux cherchant à certifier leurs compétences linguistiques. Notre centre d'examens, réputé pour son professionnalisme et sa qualité d'accueil, est le carrefour où des milliers de candidats convergent chaque année. Que vous cherchiez à renforcer votre profil professionnel ou à satisfaire une exigence administrative, nous sommes là pour garantir que votre expérience d'examen se déroule dans des conditions optimales.
 
-### Préparez-vous efficacement pour votre examen
-Un bon examen de langue est un excellent moyen de montrer vos compétences linguistiques. Que vous passiez un test de langue, un examen de langue, un test de langue française ou un test de niveau de langue, une préparation efficace est essentielle. Pour explorer vos options, visitez notre [page dédiée](../lien-interne) ou consultez [ce site](http://site-pertinent-3.com).
+## Les examens qui sont à passer dans notre centre
+
+Au centre d'examen Inflexyon, nous mettons à votre disposition un éventail d'examens reconnus mondialement. Nous vous proposons notamment le Linguaskill, le DELF, DELF JUNIOR, le DALF, le TEF Canada, le TEF IRN, et le TCF tout public. Pour ceux qui cherchent des tests de positionnement, nous avons également le pipplet et Ev@lang. 
+
+Qu'il s'agisse d'examens en présentiel ou à distance, sur papier ou sur ordinateur, nous avons assurément ce qu'il vous faut.
+
+## Les examens de nos partenaires qui font passer des examens
+
+Grâce à notre solide réseau de partenariats, nous vous offrons également la possibilité de passer d'autres certifications telles que le Lilate, le pipplet flex et le DCL. Lyon Langues est le guichet unique où vous trouverez la certification qui correspond exactement à vos besoins.
+
+## Pourquoi choisir Lyon Langues pour ces examens
+
+Opter pour Lyon Langues, c'est faire le choix d'un environnement adapté et sécurisé. Nos locaux sont équipés d'ordinateurs modernes, de casques audios, de systèmes de climatisation, et de haut-parleurs pour vous assurer confort et sérénité pendant votre examen. 
+
+Mais au-delà des infrastructures, choisir Lyon Langues, c'est également bénéficier d'une expertise hors pair. Notre équipe est dédiée à vous fournir tous les outils nécessaires pour atteindre vos objectifs linguistiques.
+
+## Nos cours de préparation 
+
+Conscient de l'enjeu que représente chaque examen pour vous, Lyon Langues ne se contente pas de vous proposer des examens; nous vous préparons également à les réussir! Notre offre de cours de préparation aux examens est conçue pour optimiser vos chances de succès. Encadré par un professeur expert, qui est lui-même examinateur et correcteur, vous bénéficierez d'un coaching sur-mesure pour travailler aussi bien sur vos points forts que sur vos lacunes.
+
+N'hésitez pas à explorer notre offre complète de cours de préparation. Avec Lyon Langues, faites le choix de l'excellence pour votre parcours linguistique.

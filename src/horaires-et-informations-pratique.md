@@ -8,32 +8,32 @@ eleventyNavigation:
 ---
 
 
-Chez Lyon Langues, nous nous efforçons de rendre votre expérience d'apprentissage aussi pratique et agréable que possible. Voici quelques informations pratiques sur notre fonctionnement.
+## Notre localisation
+Situés stratégiquement au **48 Rue Quivogne**, notre établissement se trouve entre les quartiers dynamiques de Perrache et Confluence. Pour ceux qui ne peuvent se déplacer, nous offrons également des options de cours en ligne, vous permettant de profiter de nos services de qualité, où que vous soyez.
 
-## Horaires d'Ouverture
-Nos heures d'ouverture sont les suivantes :
-- Lundi - Vendredi : 8h30 - 19h00
-- Samedi : 9h00 - 13h00
-- Dimanche : Fermé
+## Nos horaires
+Chez **Lyon Langues by Inflexyon**, l'apprentissage ne s'arrête jamais. Nous sommes ouverts presque toute l'année :
+- **Du lundi au vendredi** : de 8h30 à 20h30.
+- **Le samedi** : de 8h30 à 12h30.
+  
+_Notez que ces horaires peuvent varier pendant les vacances scolaires. Nous sommes fermés du 24 décembre au 2 janvier._
 
-### Contactez-nous
+## Notre accessibilité aux personnes en situation de handicap
+Nous croyons fermement en une éducation inclusive pour tous. C'est pourquoi nous sommes fiers d'être une partie intégrante du processus **Handi bienveillant**. Nos locaux sont entièrement adaptés pour accueillir les personnes en situation de handicap. De plus, nous veillons à ce que notre personnel soit continuellement formé pour assurer un accueil chaleureux et professionnel à tout type de public.
+
+## Le centre d'examen
+Depuis plus d'une décennie, notre centre d'examens a été le point de rendez-vous de milliers de candidats passant des certifications mondialement reconnues, comme le **DELF**. Avec des équipements de pointe et un environnement serein, nous nous assurons que chaque candidat donne le meilleur de lui-même pendant les examens.
+
+## L'école de FLE Inflexyon
+Avec plus de 16 années dédiées à l'enseignement du Français Langue Étrangère, **Inflexyon** s'est établie comme l'institution phare pour ceux qui désirent maîtriser le français. Que vous soyez à Lyon ou à l'autre bout du monde, grâce à nos offres distancielles, nous nous assurons que la qualité de l'enseignement demeure impeccable. Sous la houlette de nos professeurs chevronnés, votre voyage linguistique promet d'être enrichissant.
+
+## Le label
+Nos nombreux partenariats et labellisations sont le reflet de notre engagement envers l'excellence académique. Fiers d'être membre des **Acteurs de la compétence** et de détenir des certifications telles que **Qualiopi**, nous sommes également partenaires de Pipplet et centre de formation au **LILAT** et **Linguaskill**. Ces affiliations garantissent que chaque étudiant bénéficie d'une éducation de premier ordre dans un environnement propice.
+
+**À Lyon Langues et Inflexyon**, nous sommes bien plus qu'une simple école de langues. Nous sommes une communauté, une famille qui s'engage à offrir le meilleur à chaque étudiant. Alors, que vous souhaitiez maîtriser une nouvelle langue ou obtenir une certification, nous sommes ici pour vous guider à chaque étape. Bienvenue chez nous!
+
+
+## Contactez-nous
 Pour toute question, n'hésitez pas à nous contacter :
 - Téléphone : +33 (0)4 XX XX XX XX
 - Email : info@lyon-langues.com
-
-## Localisation
-Lyon Langues est situé dans le quartier dynamique de Confluence, à Lyon :
-- Adresse : 123 Rue de la Confluence, 69002 Lyon, France
-
-### Comment se rendre à Lyon Langues ?
-Notre école est facilement accessible par les transports en commun :
-- Tramway : Ligne T1, arrêt Hôtel de Région - Montrochet
-- Bus : Ligne S1, arrêt Confluence - Rambaud
-
-## Cours et Services
-Nous proposons une gamme variée de cours de langue, allant des cours individuels aux cours de groupe, en passant par les cours à distance et les ateliers culturels. Consultez notre page [Nos Offres](./nos-offres.md) pour plus d'informations sur nos cours.
-
-### Inscriptions et Paiements
-Les inscriptions aux cours se font en ligne ou sur place à notre centre. Nous acceptons plusieurs modes de paiement, dont la carte de crédit, le virement bancaire et les chèques. Consultez notre page [Financement](./financement.md) pour plus d'informations sur les options de financement disponibles.
-
-Nous avons hâte de vous accueillir à Lyon Langues !

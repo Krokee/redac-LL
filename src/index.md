@@ -1,29 +1,62 @@
 ---
 layout: "layout.njk"
-title: "Lyon Langues : Votre École de Langue à Lyon pour Tous Profils"
+title: "Lyon Langues : La référence en matière d'apprentissage linguistique"
 
 eleventyNavigation:
   order: 1
   key: "Accueil"
 ---
 
-Bienvenue à Lyon Langues, votre école de langues polyvalente à Lyon. Située dans le dynamique quartier de la Confluence, nous proposons des cours de qualité en 13 langues différentes pour différents profils, y compris les professionnels, les étudiants, les étrangers et les retraités. Notre vision est de vous fournir un apprentissage immersif et efficace, adapté à vos besoins spécifiques.
 
-## Nos Langues
 
-Choisissez parmi nos cours en anglais, coréen, espagnol, japonais, portugais, chinois, allemand, italien, russe, suédois, hébreu, arabe et français. Nos professeurs passionnés et expérimentés vous aideront à maîtriser votre langue cible dans un environnement d'apprentissage stimulant et convivial.
+Depuis plus de 10 ans, **Lyon Langues** rayonne comme un établissement d’enseignement supérieur privé hors contrat, riche d'une certification Qualiopi, au cœur du quartier dynamique de Confluence.
 
-## Nos Formations
+## Qui est Lyon Langues?
 
-Que vous préfériez les cours individuels, collectifs, en présentiel à notre école à Lyon, à domicile, ou à distance, nous avons des options pour vous. Nos ateliers culturels vous offrent une expérience d'apprentissage enrichissante et complète.
+Spécialiste des langues à Lyon et bien au-delà, grâce aux cours distanciels, nous sommes vos partenaires privilégiés pour concrétiser vos ambitions linguistiques. Notre histoire, née en 2011, s'inscrit dans une tradition d'excellence initiée par notre école jumelle, **Inflexyon**, fondée en 2006. Ces deux écoles, partageant les mêmes locaux, sont le cœur vibrant de notre mission : connecter les natifs et les apprenants du monde entier.
 
-## Centre d'Examen Agréé
+## Ce que Lyon Langues offre
 
-Lyon Langues est un centre d'examen agréé proposant une variété de tests de compétence linguistique incluant EV@lang, Linguaskill, Certification Pipplet Flex, DELF DALF, DCL, Lilate, TEF CANADA, TEF IRN, et TCF.
+L'apprentissage d'une langue est un voyage dans sa culture. C'est pourquoi, en plus d’une dimension culturelle intrinsèque, nous proposons :
 
-## Modes de Financement
+- **Cours collectifs** : adaptés, évolutifs et structurés en trimestres.
+- **Cours individuels** : sur mesure pour vos besoins spécifiques.
+- **Préparation aux examens** : parce que la maîtrise mérite reconnaissance.
+- **Soutien scolaire** : pour que chaque élève trouve son chemin vers la réussite.
+- **Stages intensifs d'été** : une immersion complète pour une progression rapide.
 
-Chez Lyon Langues, nous considérons que l'apprentissage d'une langue est un investissement pour l'avenir. Nous vous aidons à financer votre éducation grâce à divers modes de financement, notamment l'Aide individuelle à la formation, le Fond paritaire de sécurisation des parcours pros (fpspp), le Contrat sécurisation professionnelle (CSP), POE, Plan de développement des compétences, Plan de formation et le CPF. En savoir plus sur nos options de financement.
+Vous pouvez vous plonger dans la richesse des langues : allemand, anglais, arabe, chinois, coréen, espagnol, français, hébreu, italien, japonais, portugais et russe.
+
+## À qui s'adressent nos cours?
+
+À vous. Que vous soyez un professionnel cherchant à parfaire ses compétences, un étudiant avide d'apprendre, un voyageur curieux ou simplement passionné par une culture, notre équipe dédiée est là pour vous guider.
+
+## Nos valeurs et engagements
+
+### Interaction avec des natifs
+
+Grâce à notre partenariat avec **Inflexyon**, nous favorisons des échanges culturels et linguistiques authentiques. Chez Lyon Langues, chaque étudiant a l'opportunité d'interagir avec des locuteurs natifs, enrichissant ainsi son expérience d'apprentissage.
+
+### Qualité d'enseignement
+
+Nos certifications telles que Qualiopi, Label qualité FLE et d'autres attestent de notre engagement à offrir un enseignement de première classe.
+
+### Une école à taille humaine
+
+Notre éthique est centrée sur l'humain. Nous privilégions des groupes réduits pour offrir une attention individuelle à chaque apprenant.
+
+### Financements par CPF
+
+Votre rêve d'apprentissage est à portée de main avec des options de financement avantageuses, notamment via le CPF.
+
+## Le centre d'examen et Inflexyon
+
+Notre centre d’examen, agréé par l'État, valide votre parcours linguistique. Chaque certification est une reconnaissance officielle de vos compétences. Et grâce à notre collaboration avec **Inflexyon**, une école de FLE de renom, l'expérience d'apprentissage est décuplée.
+
+---
+
+Apprendre une langue, c'est ouvrir une porte sur le monde. Chez **Lyon Langues**, nous vous tendons la clé.
+
 
 ## Contactez-nous
 

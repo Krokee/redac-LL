@@ -7,20 +7,40 @@ eleventyNavigation:
   parent: Nos examens de langue
 ---
 
-Le **Test d'Évaluation de Français pour l'accès à la nationalité française (TEF IRN)** est une évaluation reconnue par le gouvernement français pour démontrer votre compétence en français dans le cadre d'une demande de naturalisation. Lyon Langues est là pour vous aider à préparer et à réussir cet examen important.
 
-## Qu'est-ce que le TEF pour l'accès à la nationalité française ?
-Le TEF pour l'accès à la nationalité française est un test de langue qui évalue vos compétences en français à un niveau B2. Il est souvent requis pour ceux qui demandent la naturalisation française. Le test comprend des sections sur la compréhension orale, l'expression orale et l'expression écrite.
+## Qu'est-ce que le TEF IRN?
 
-### Préparez-vous pour le TEF IRN à Lyon
-À Lyon Langues, nous offrons des cours de préparation au **TEF IRN à Lyon** pour vous aider à obtenir les meilleurs résultats possibles à l'examen. Nos formateurs expérimentés vous aideront à comprendre le format de l'examen, à développer vos compétences en français et à vous donner des stratégies pour réussir.
+Le TEF IRN (Test d’Évaluation de Français Intégration, Résidence et Nationalité) est un examen conçu spécifiquement pour évaluer le niveau en langue française des personnes non-francophones. Mis en place par la Chambre de Commerce et d’Industrie de Paris (CCI), il est reconnu par le ministère de l’Intérieur français comme un indicateur précis du niveau de compétence linguistique. La certification, valide pour deux années, est un élément-clé pour ceux qui souhaitent s'intégrer à la société française, que ce soit pour résider, travailler ou obtenir la nationalité française.
 
-## Comment se préparer pour le TEF IRN ?
-La préparation est essentielle pour réussir l'examen TEF IRN. Cela signifie comprendre le format de l'examen, renforcer vos compétences en français, et vous entraîner pour les sections spécifiques de l'examen, comme le **TEF oral**. À Lyon Langues, nous vous fournirons tous les outils nécessaires pour vous préparer efficacement.
+## Format de l'examen
 
-### Quel est le prix du TEF pour l'accès à la nationalité française ?
-Le **prix du TEF IRN** peut varier en fonction du centre d'examen. Chez Lyon Langues, nous nous efforçons de rendre cet examen accessible à tous. Pour plus d'informations sur nos tarifs, veuillez nous contacter.
+L'examen TEF IRN s'articule autour de quatre compétences linguistiques essentielles:
 
-## Passez Votre TEF pour l'accès à la nationalité française à Lyon Langues
-Vous préparez votre demande de naturalisation française et devez passer le TEF IRN ? Contactez-nous dès aujourd'hui pour commencer votre préparation à l'examen.
+1. Compréhension orale
+2. Compréhension écrite
+3. Expression orale
+4. Expression écrite
 
+## Niveaux évalués par l'examen
+
+Le TEF IRN évalue les compétences des candidats selon le Cadre Européen Commun de Référence pour les Langues (CECRL). Il se concentre sur les niveaux A1, A2 et B1, car ce sont les niveaux souvent requis pour les démarches administratives en France.
+
+## Épreuves de l'examen
+
+L'examen se divise en deux parties : certaines épreuves sont effectuées sur ordinateur, tandis que l'épreuve d'expression orale est menée face à un examinateur. Les candidats sont tenus de passer toutes les épreuves en une seule journée.
+
+## Comment le passer / s'inscrire
+
+Accessible aux personnes âgées de plus de seize ans, le TEF IRN se déroule en présentiel dans notre centre. Vous pouvez sélectionner votre date d'examen lors de votre inscription, en fonction des disponibilités. L'heure précise de votre convocation vous sera transmise une semaine avant le début de l’épreuve. À la fin de l'examen, une attestation numérique vous sera délivrée.
+
+## Pourquoi choisir Lyon Langues by Inflexyon pour le passer?
+
+En optant pour Lyon Langues by Inflexyon, vous garantissez :
+
+- Un cadre d'examen professionnel et bien équipé
+- Une guidance complète à travers le processus d'examen
+- La prise en charge totale des épreuves en une seule journée
+
+**Durée de validité du TEF IRN** : 2 ans.
+
+Lyon Langues by Inflexyon, votre allié de choix pour faciliter votre intégration en France. Réservez dès maintenant et rapprochez-vous de votre rêve français.
