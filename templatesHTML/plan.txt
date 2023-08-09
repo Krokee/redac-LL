@@ -1,0 +1,33 @@
+Niveau de page	Titre de la page
+1	Lyon Langues
+2	A propos
+2	FAQ
+2	Nos offres
+2	Soutien scolaire
+2	Prestation de service aux établissements d'enseignement
+2	Prestation de service aux professionnels 
+3	Formation en efficacisté professionnelle (à l'écrit)
+3	Formation règles de grammaire et d'orthographe
+3	Traducteur et interprète
+2	Mentions légales
+2	Horaires et info pratiques
+2	Atelier
+2	Contact
+2	Examens
+3	EV@lang
+3	Linguaskill
+3	Certification Pipplet Flex
+3	DELF DALF
+3	DCL
+3	Lilate
+3	TEF CANADA
+3	TEF IRN
+3	TCF
+2	Financement
+3	Aide individuelle à la fomation
+3	Fond paritaire de sécurisation des parcours pros (fpspp)
+3	Contrat sécurisation professionnelle (CSP)
+3	POE
+3	Plan de développement des compétences
+3	CPF
+3	Plan de formation
