@@ -7,10 +7,6 @@ eleventyNavigation:
   parent: Financement
 ---
 
-*** PAGE ***
-Aide individuelle à la formation
-
----
 
 L’AIF, ou **Aide Individuelle à la Formation**, est un dispositif destiné à soutenir financièrement les individus souhaitant suivre une formation professionnelle. Elle est attribuée par Pôle emploi et vise à contribuer au financement des frais pédagogiques dans des situations spécifiques, notamment lorsque d'autres dispositifs ne peuvent pas répondre aux besoins du demandeur.
 

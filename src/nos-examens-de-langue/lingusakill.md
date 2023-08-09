@@ -44,18 +44,3 @@ Lyon Langues se distingue par son expertise et son engagement envers l'excellenc
 Le passage du test Linguaskill est simple et pratique. Vous pouvez le passer en présentiel dans notre centre ou à distance, avec la surveillance d'une intelligence artificielle. Il suffit de choisir votre jour de passage parmi ceux proposés par notre centre. Votre heure de convocation vous sera communiquée une semaine avant le début de la session. Les candidats peuvent également s'inscrire pour des cours d'anglais supplémentaires éligibles au CPF.
 
 En conclusion, que vous souhaitiez améliorer vos opportunités professionnelles, académiques ou personnelles, le Linguaskill est votre clé pour prouver vos compétences en anglais. Avec Lyon Langues, vous êtes assuré d'un processus d'évaluation reconnu et professionnel.
-
-
-
-
-
-### Menu pages même niveau
-* [Certification Pipplet Flex](../certification-pipplet-flex)
-* [DCL](../dcl)
-* [DELF DALF](../delf-dalf)
-* [Ev@lang](../evalang)
-* [Linguaskill](.)
-* [LILATE](../lilate)
-* [TCF](../tcf)
-* [TEF Canada](../tef-canada)
-* [TEF IRN](../tef-irn)
