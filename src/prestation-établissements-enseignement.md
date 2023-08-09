@@ -2,7 +2,7 @@
 layout: "layout.njk"
 title: Prestation de service aux établissements d'enseignement
 eleventyNavigation:
-  key: Soutien scolaire
+  key: Prestation de service aux étalissements scolaires
   order: 9
   parent:
 
